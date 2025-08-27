@@ -14,4 +14,4 @@ Hi! I’m Jordan Pangrazzi, a College of Southern Nevada student learning web de
 ## Contact
 - [Phone] 702-275-4774
 - Email: jordan.pangrazzi@student.csn.edu 
-- [LinkedIn](www.linkedin.com/in/jordan-pangrazzi-86314734b)
+- LinkedIn: [www.linkedin.com/in/jordan-pangrazzi-86314734b]
