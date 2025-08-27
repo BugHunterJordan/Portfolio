@@ -9,9 +9,9 @@ Hi! I’m Jordan Pangrazzi, a College of Southern Nevada student learning web de
 - QA testing concepts (learning)
 
 ## Certifications
-- Microsoft Excel Specialist & Microsoft Office Specialist – [linkedin.com/in/jordan-pangrazzi-86314734b]
+- Microsoft Excel Specialist & Microsoft Office Specialist – [www.linkedin.com/in/jordan-pangrazzi-86314734b]
 
 ## Contact
 - [Phone] 702-275-4774
 - Email: jordan.pangrazzi@student.csn.edu 
-- [LinkedIn](linkedin.com/in/jordan-pangrazzi-86314734b)
+- [LinkedIn](www.linkedin.com/in/jordan-pangrazzi-86314734b)
